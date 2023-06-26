@@ -1,7 +1,7 @@
 #if DEBUG
-let appId = [DEV-APNS appId value from MobilePush app admin]
-let accessToken = [DEV-APNS accessToken value from MobilePush app admin]
-let appEndpoint = [DEV-APNS app endpoint value from MobilePush app admin]
+let appId = fe255ca3-2924-47bf-95c7-b389aa9503d4
+let accessToken = qJ56AikkHeQeprfYGtmf5ubt
+let appEndpoint = https://mcbg78r002rx--7hqhzhj62mhc48.device.marketingcloudapis.com/
 #else
 let appId = [PROD-APNS appId value from MobilePush app admin]
 let accessToken = [PROD-APNS accessToken value from MobilePush app admin]
